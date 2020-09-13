@@ -10,7 +10,8 @@ pyenv virtualenv 버전(ex.3.8.5) project-env
 ```
 
 3. 가상환경 적용
-```pyenv local project-env
+```
+pyenv local project-env
 ```
 
 4. 장고 설치
