@@ -13,4 +13,4 @@
 
 
 ## Django
--[가상환경](https://github.com/yumin25/TIL/blob/master/Django/%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD(Virtualenv)%20%EC%83%9D%EC%84%B1%20%26%20%EC%A0%81%EC%9A%A9.md)
+- [가상환경](https://github.com/yumin25/TIL/blob/master/Django/%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD(Virtualenv)%20%EC%83%9D%EC%84%B1%20%26%20%EC%A0%81%EC%9A%A9.md)
