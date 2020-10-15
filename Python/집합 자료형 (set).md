@@ -1,6 +1,6 @@
 ## 집합 자료형 (set)
 
-[점프투파이썬](https://wikidocs.net/1015)
+[점프투파이썬](https://wikidocs.net/1015)<br>
 [파이썬 - 기본을 갈고 닦자!](https://wikidocs.net/16044)
 
 * 중복 허용 x
