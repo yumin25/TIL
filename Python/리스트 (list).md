@@ -1,4 +1,4 @@
-## 리스트 (list)
+## 리스트 (List)
 
 <br>관련 자료 : [docs.python](https://docs.python.org/3/tutorial/datastructures.html) / [점프투파이썬](https://wikidocs.net/14)  / [코딩 도장](https://dojang.io/mod/page/view.php?id=2281) <br>
 
