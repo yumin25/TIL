@@ -26,6 +26,7 @@
 - [그래프 (Graph)](https://github.com/yumin25/TIL/blob/master/Data%20Structure/Graph.md)
 
 ## Algorithm
+- [BFS & DFS)](https://github.com/yumin25/TIL/blob/master/Algorithm/BFS%20%26%20DFS.md)
 - [탐욕 알고리즘 (Greedy Algorithm)](https://github.com/yumin25/TIL/blob/master/Algorithm/Greedy%20Algorithm.md)
 
 ## SQL
