@@ -12,7 +12,7 @@
 
 
 ## Python
-- [리스트 (list)](https://github.com/yumin25/TIL/blob/master/Python/%EB%A6%AC%EC%8A%A4%ED%8A%B8%20(list).md)
+- [리스트 (List)](https://github.com/yumin25/TIL/blob/master/Python/%EB%A6%AC%EC%8A%A4%ED%8A%B8%20(list).md)
 - [집합 자료형 (Set)](https://github.com/yumin25/TIL/blob/master/Python/%EC%A7%91%ED%95%A9%20%EC%9E%90%EB%A3%8C%ED%98%95%20(set).md)
 - [연산자](https://github.com/yumin25/TIL/blob/master/Python/%EC%97%B0%EC%82%B0%EC%9E%90.md)
 - [문자열 함수 (String Methods)](https://github.com/yumin25/TIL/blob/master/Python/String%20Methods.md)
@@ -32,3 +32,7 @@
 ## SQL
 - [SELECT](https://github.com/yumin25/TIL/blob/master/SQL/SELECT.md)
 - [WHERE](https://github.com/yumin25/TIL/blob/master/SQL/WHERE.md)
+- [GROUP BY](https://github.com/yumin25/TIL/blob/master/SQL/GROUP%20BY.md)
+- [연산자](https://github.com/yumin25/TIL/blob/master/SQL/%EC%97%B0%EC%82%B0%EC%9E%90.md)
+- [집계 함수](https://github.com/yumin25/TIL/blob/master/SQL/%EC%A7%91%EA%B3%84%ED%95%A8%EC%88%98.md)
+- [기타 함수](https://github.com/yumin25/TIL/blob/master/SQL/%EA%B8%B0%ED%83%80%20%ED%95%A8%EC%88%98.md)
