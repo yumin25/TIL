@@ -105,7 +105,25 @@
 <br>
 
 * 정렬<br>
-[정렬 함수](https://github.com/yumin25/TIL/blob/master/Python/%EC%A0%95%EB%A0%AC%20%ED%95%A8%EC%88%98.md)
+  - **리스트 변수.sort()**
+  - **sorted**(리스트 변수, 정렬 기준이 되는 key, reverse=True)<br><br>
+
+  sort()와 sorted의 차이점 : sort는 원본 리스트의 값을 직접 수정하고 sorted는 원본의 값은 그대로이며 새로운 정렬된 리스트를 반환한다.<br>
+  
+  reverse = True 를 사용할 시 내림차순으로 정렬된다.
+
+```python
+a = [2,1,3]
+
+>>> a.sort()
+>>> a
+[1,2,3]
+
+>> sorted(a)
+[1,2,3]
+>> a
+[2,1,3]
+```
 
 <br>
 
@@ -116,6 +134,7 @@
 ```python
 >>> a = [1,2,3]
 >>> a.reverse()
+>>> a
 [3, 2, 1]
 ```
 

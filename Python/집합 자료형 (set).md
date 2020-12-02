@@ -1,7 +1,5 @@
 ## 집합 자료형 (set)
-
-[점프투파이썬](https://wikidocs.net/1015)<br>
-[파이썬 - 기본을 갈고 닦자!](https://wikidocs.net/16044)
+<br>
 
 * 중복 허용 x
 * 순서 x. 어떤 값이 먼저 나올지 알 수 없다.
@@ -50,3 +48,5 @@ KeyError: 2
 >>> s1
 {1,3}
 ```
+
+<br>관련 자료 : [점프투파이썬](https://wikidocs.net/1015) / [파이썬 - 기본을 갈고 닦자!](https://wikidocs.net/16044)
