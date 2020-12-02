@@ -16,7 +16,8 @@
 - [집합 자료형 (Set)](https://github.com/yumin25/TIL/blob/master/Python/%EC%A7%91%ED%95%A9%20%EC%9E%90%EB%A3%8C%ED%98%95%20(set).md)
 - [연산자](https://github.com/yumin25/TIL/blob/master/Python/%EC%97%B0%EC%82%B0%EC%9E%90.md)
 - [문자열 함수 (String Methods)](https://github.com/yumin25/TIL/blob/master/Python/String%20Methods.md)
-- [정렬 함수](https://github.com/yumin25/TIL/blob/master/Python/%EC%A0%95%EB%A0%AC%20%ED%95%A8%EC%88%98.md)
+- [내장 함수](https://github.com/yumin25/TIL/blob/master/Python/%EB%82%B4%EC%9E%A5%20%ED%95%A8%EC%88%98.md)
+- [기타](https://github.com/yumin25/TIL/blob/master/Python/%EA%B8%B0%ED%83%80.md)
 
 
 ## Django
