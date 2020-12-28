@@ -3,10 +3,14 @@
 
 Key와 Value를 한 쌍으로 갖는 자료형
 <br><br>
+예시
+```python
+a = {1:'a', 2:'b'}
+```
+<br>
 
 ### 쌍 추가
 ```python
->>> a = {1:'a',2:'b'}
 >>> a[3] = [1,2,3]
 >>> a
 {1: 'a', 2: 'b', 3: [1, 2, 3]}
@@ -15,7 +19,6 @@ Key와 Value를 한 쌍으로 갖는 자료형
 
 ### 삭제 : **del**
 ```python
->>> a = {1:'a',2:'b'}
 >>> del a[1]
 >>> a
 {2: 'b'}
@@ -23,10 +26,6 @@ Key와 Value를 한 쌍으로 갖는 자료형
 <br>
 
 ### 검색
-```python
->>> a = {1:'a',2:'b'}
-```
-
 * Key 값으로 Value 얻기
   *  **get**
   *  []
@@ -42,6 +41,37 @@ Key와 Value를 한 쌍으로 갖는 자료형
 >>> 1 in a
 True
 ```
+<br>
+
+### 관련 함수들
+* **keys()** : Key값만 모아 dict_keys 객체로 리턴
+  ```python
+  >>> a.keys()
+  dict_keys([1,2])
+  ```
+  <br>
+
+* **values()** : value값만 모아 dict_values 객체로 리턴
+  ```python
+  >>> a.values()
+  dict_values(['a', 'b'])
+  ```
+  <br>
+
+* **items()** : Key와 Value의 쌍을 튜플로 묶은 뒤 dict_items 객체로 리턴
+  ```python
+  >>> a.items()
+  dict_items([(1, 'a'), (2, 'b')])
+  ```
+  <br>
+
+* **clear()** : 딕셔너리 안 모든 요소 삭제
+  ```python
+  >>> a.clear()
+  >>> a
+  {}
+  ```
+  <br>
 
 ## dict comprehension
 출력표현식 : {식 for 변수 in 리스트 if 조건식}
