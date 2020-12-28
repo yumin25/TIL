@@ -15,6 +15,7 @@
 - [리스트 (List)](https://github.com/yumin25/TIL/blob/master/Python/%EB%A6%AC%EC%8A%A4%ED%8A%B8%20(list).md)
 - [집합 자료형 (Set)](https://github.com/yumin25/TIL/blob/master/Python/%EC%A7%91%ED%95%A9%20%EC%9E%90%EB%A3%8C%ED%98%95%20(set).md)
 - [딕셔너리 (Dictionary)](https://github.com/yumin25/TIL/blob/master/Python/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%20(dictionary).md)
+- [변수](https://github.com/yumin25/TIL/blob/master/Python/%EB%B3%80%EC%88%98.md)
 - [연산자](https://github.com/yumin25/TIL/blob/master/Python/%EC%97%B0%EC%82%B0%EC%9E%90.md)
 - [내장 함수](https://github.com/yumin25/TIL/blob/master/Python/%EB%82%B4%EC%9E%A5%20%ED%95%A8%EC%88%98.md)
 - [라이브러리](https://github.com/yumin25/TIL/blob/master/Python/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
@@ -37,7 +38,8 @@
 - [삽입 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC.md)
 - [퀵 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%ED%80%B5%20%EC%A0%95%EB%A0%AC.md)
 - [기타 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%EA%B8%B0%ED%83%80%20%EC%A0%95%EB%A0%AC.md)
-- [탐욕 알고리즘 (Greedy Algorithm)](https://github.com/yumin25/TIL/blob/master/Algorithm/Greedy%20Algorithm.md)
+- [탐욕 알고리즘](https://github.com/yumin25/TIL/blob/master/Algorithm/Greedy%20Algorithm.md)
+- [백트래킹](https://github.com/yumin25/TIL/blob/master/Algorithm/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9.md)
 - [시간 복잡도](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
 
 ## SQL
