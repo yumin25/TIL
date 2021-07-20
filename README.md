@@ -3,12 +3,18 @@
 > Today I Learned
 
 
+- [Java](#Java)
 - [Python](#Python)
 - [Django](#Django)
 - [자료구조](#자료구조)
 - [Algorithm](#Algorithm)
 - [SQL](#SQL)
 - [마크다운](https://github.com/yumin25/TIL/blob/master/%EA%B7%B8%20%EC%99%B8/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)
+
+
+## Java
+- [배열 (Array)](https://github.com/yumin25/TIL/blob/master/Java/%EB%B0%B0%EC%97%B4.md)
+- [패키지](https://github.com/yumin25/TIL/blob/master/Java/%ED%8C%A8%ED%82%A4%EC%A7%80.md)
 
 
 ## Python
