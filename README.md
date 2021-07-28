@@ -14,6 +14,7 @@
 
 ## Java
 - [배열 (Array)](https://github.com/yumin25/TIL/blob/master/Java/%EB%B0%B0%EC%97%B4.md)
+- [리스트 (List)](https://github.com/yumin25/TIL/blob/master/Java/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 - [패키지](https://github.com/yumin25/TIL/blob/master/Java/%ED%8C%A8%ED%82%A4%EC%A7%80.md)
 
 
