@@ -26,3 +26,6 @@ char a[] = br.readLine().toCharArray();
 ```
 
 <br>
+
+관련 :  [StringBuilder](https://github.com/yumin25/TIL/blob/master/Java/%ED%8C%A8%ED%82%A4%EC%A7%80/java.lang/StringBuilder.md) / 
+[StringTokenizer](https://github.com/yumin25/TIL/blob/master/Java/%ED%8C%A8%ED%82%A4%EC%A7%80/java.util/StringTokenizer.md)
