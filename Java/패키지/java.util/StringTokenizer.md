@@ -1,6 +1,6 @@
 ## StringTokenizer
 
-문자열을 구분자로 쪼개주는 함수
+문자열을 구분자로 쪼개주는 함수들
 
 ```java
 import java.util.StringTokenizer;
@@ -35,5 +35,9 @@ while(st.hasMoreTokens()) {
 	System.out.println(st.nextToken());
 }
 ```
+
+<br>
+
+* countTokens : 남아있는 토큰 개수 리턴.
 
 <br>
