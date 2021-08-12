@@ -7,6 +7,8 @@ value : 중복 O
 
 선언
 ```java
+import java.util.HashMap;
+
 HashMap<String, String> map = new HashMap<String, String>();
 ```
 new에서 타입 파라미터 생략 가능<br>

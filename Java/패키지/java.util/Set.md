@@ -3,6 +3,8 @@
 
 선언
 ```java
+import java.util.HashSet;
+
 Set<String> set = new HashSet<String>();
 ```
 <br>

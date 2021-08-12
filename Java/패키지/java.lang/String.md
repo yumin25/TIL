@@ -50,3 +50,8 @@ System.out.println(word.toLowerCase());
 ```
 
 <br>
+
+* contains() : 특정 문자열이 포함되어 있으면 true 리턴.
+```java
+System.out.println(word.contains("aa"));
+```
