@@ -56,3 +56,10 @@ list.set(1, "Five");
 ```
 
 <br>
+
+* sort : 정렬
+```java
+Collections.sort(list);
+```
+
+<br>
