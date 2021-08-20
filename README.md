@@ -49,6 +49,7 @@
 - [선택 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC.md)
 - [삽입 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC.md)
 - [퀵 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%ED%80%B5%20%EC%A0%95%EB%A0%AC.md)
+- [합병 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%ED%95%A9%EB%B3%91%20%EC%A0%95%EB%A0%AC.md)
 - [기타 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%EA%B8%B0%ED%83%80%20%EC%A0%95%EB%A0%AC.md)
 - [탐욕 알고리즘](https://github.com/yumin25/TIL/blob/master/Algorithm/Greedy%20Algorithm.md)
 - [백트래킹](https://github.com/yumin25/TIL/blob/master/Algorithm/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9.md)

@@ -67,3 +67,23 @@ def dfs(graph, root):
 >>> dfs(graph, A)
 ['A', 'C', 'G', 'B', 'F', 'E', 'D']
 ```
+
+<br><br>
+
+**재귀** 사용
+```python
+def dfs(graph, root, visited=[]):
+    visited.append(root)
+
+    for node in graph[root]:
+        if node not in visited:
+            dfs(graph, node, visited)
+
+    return visited
+```
+
+실행
+```python
+>>> dfs(graph, A)
+['A', 'B', 'D', 'E', 'F', 'C', 'G']
+```
