@@ -28,6 +28,14 @@ sb.reverse();
 
 <br>
 
+- replace(int start, int end, String str) : 데이터 교체
+
+```java
+sb.replace(2, 5, "HH"); // ABCDEFG -> ABHHFG
+```
+
+<br>
+
 - insert(index, x) : 특정 인덱스에 값 삽입
 
 ```java
