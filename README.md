@@ -44,15 +44,22 @@
 
 ## Algorithm
 
+- 탐색
+
+  - [이진 탐색](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.md)
+  - [순차 탐색](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%88%9C%EC%B0%A8%20%ED%83%90%EC%83%89.md)
+
+- 정렬
+
+  - [버블 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%EB%B2%84%EB%B8%94%20%EC%A0%95%EB%A0%AC.md)
+  - [선택 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC.md)
+  - [삽입 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC.md)
+  - [퀵 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%ED%80%B5%20%EC%A0%95%EB%A0%AC.md)
+  - [합병 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%ED%95%A9%EB%B3%91%20%EC%A0%95%EB%A0%AC.md)
+  - [기타](https://github.com/yumin25/TIL/blob/master/Algorithm/%EA%B8%B0%ED%83%80%20%EC%A0%95%EB%A0%AC.md)
+
 - [BFS & DFS](https://github.com/yumin25/TIL/blob/master/Algorithm/BFS%20%26%20DFS.md)
-- [이진 탐색](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.md)
-- [순차 탐색](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%88%9C%EC%B0%A8%20%ED%83%90%EC%83%89.md)
-- [버블 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%EB%B2%84%EB%B8%94%20%EC%A0%95%EB%A0%AC.md)
-- [선택 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC.md)
-- [삽입 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC.md)
-- [퀵 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%ED%80%B5%20%EC%A0%95%EB%A0%AC.md)
-- [합병 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%ED%95%A9%EB%B3%91%20%EC%A0%95%EB%A0%AC.md)
-- [기타 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%EA%B8%B0%ED%83%80%20%EC%A0%95%EB%A0%AC.md)
+
 - [탐욕 알고리즘](https://github.com/yumin25/TIL/blob/master/Algorithm/Greedy%20Algorithm.md)
 - [백트래킹](https://github.com/yumin25/TIL/blob/master/Algorithm/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9.md)
 - [시간 복잡도](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)

@@ -27,6 +27,10 @@
 
 ### 트리 순회 (Tree Traversal) <a id='traversal'></a>
 
+- 전위 순회 (preorder) : 루트 - 왼쪽 - 오른쪽
+- 중위 순회 (inorder) : 왼쪽 - 루트 - 오른쪽
+- 후위 순회 (postorder) : 왼쪽 - 오른쪽 - 루트
+
 <br>
 
 ### 이진 트리 (Binary Tree) <a id='binary'></a>
