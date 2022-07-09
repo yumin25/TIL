@@ -68,10 +68,10 @@
 
 ## SQL
 
-- [SELECT](https://github.com/yumin25/TIL/blob/master/SQL/SELECT.md)
-- [WHERE](https://github.com/yumin25/TIL/blob/master/SQL/WHERE.md)
-- [JOIN](https://github.com/yumin25/TIL/blob/master/SQL/JOIN.md)
-- [GROUP BY](https://github.com/yumin25/TIL/blob/master/SQL/GROUP%20BY.md)
-- [연산자](https://github.com/yumin25/TIL/blob/master/SQL/%EC%97%B0%EC%82%B0%EC%9E%90.md)
-- [집계 함수](https://github.com/yumin25/TIL/blob/master/SQL/%EC%A7%91%EA%B3%84%ED%95%A8%EC%88%98.md)
-- [기타 함수](https://github.com/yumin25/TIL/blob/master/SQL/%EA%B8%B0%ED%83%80%20%ED%95%A8%EC%88%98.md)
+- [SELECT](https://github.com/yumin25/TIL/blob/master/Database/SQL/SELECT.md)
+- [WHERE](https://github.com/yumin25/TIL/blob/master/Database/SQL/WHERE.md)
+- [JOIN](https://github.com/yumin25/TIL/blob/master/Database/SQL/JOIN.md)
+- [GROUP BY](https://github.com/yumin25/TIL/blob/master/Database/SQL/GROUP%20BY.md)
+- [연산자](https://github.com/yumin25/TIL/blob/master/Database/SQL/%EC%97%B0%EC%82%B0%EC%9E%90.md)
+- [집계 함수](https://github.com/yumin25/TIL/blob/master/Database/SQL/%EC%A7%91%EA%B3%84%ED%95%A8%EC%88%98.md)
+- [기타 함수](https://github.com/yumin25/TIL/blob/master/Database/SQL/%EA%B8%B0%ED%83%80%20%ED%95%A8%EC%88%98.md)
