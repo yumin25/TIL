@@ -92,6 +92,8 @@ feature들이 merge된 develop브랜치를 release 브랜치에 빼고 배포 �
 요청 - dispatcher servlet - handler mapping. 요청을 처리할 수 있는 컨트롤러 찾기 - 컨트롤러에서 요청 처리, 응답받을 view의 이름 리턴 - view resolver 검사 후 view로 보냄 - view에서 처리 - dispatcher servlet - 결과 응답
 [참고](https://blackaaron.tistory.com/3)
 
+**Spring과 Spring Boot의 차이점** : 스프링부트는 스프링 프레임워크를 사용하기 위한 설정의 많은 부분을 자동화한다. 컴포넌트 스캔, bean 설정, dispatcher servlet 설정, view resolver, JDBC 설정, 웹 jar 설정 등. 또한 내장 서블릿 컨테이너인 tomcat이 자동 설정.
+
 <br>
 
 ### Spring Security
@@ -100,6 +102,21 @@ feature들이 merge된 develop브랜치를 release 브랜치에 빼고 배포 �
 
 - bcrypt : 단방향 해쉬 함수
 
+<br>
+
+### JAVA vs PYTHON
+
+같은 점 : 객체지향 언어.
+
+**JAVA** <br>
+정적타이핑 언어 <br>
+코드를 미리 컴파일한 뒤 byte code를 배포 - 속도가 비교적 빠르다
+<br>
+
+**PYTHON** <br>
+동적타이핑 언어(변수 유형을 선언할 필요 x) <br>
+인터프리터 언어. 라인 별로 컴파일을 한다. 실행될 때마다 코드를 컴파일한다. <br>
+코드 가독성이 비교적 좋다.
 <br><br>
 
 #### HMAC : 암호화 해시 함수와 기밀 암호화 키를 수반하는 메세지 인증 코드
