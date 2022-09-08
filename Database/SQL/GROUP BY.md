@@ -37,4 +37,5 @@ GROUP BY ROLLUP(column1, column2);
 
 ## HAVING
 
+group by된 이후 특정한 필드로 그룹화 되어진 새로운 테이블에 조건을 줄 수 있다.<br>
 집계함수를 가지고 조건비교를 할 때 사용.
