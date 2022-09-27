@@ -8,7 +8,7 @@
 - [자료구조](#자료구조)
 - [Algorithm](#Algorithm)
 - [SQL](#SQL)
-- [마크다운](https://github.com/yumin25/TIL/blob/master/%EA%B7%B8%20%EC%99%B8/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)
+- [기타](https://github.com/yumin25/TIL/blob/master/%EA%B7%B8%20%EC%99%B8/%EA%B8%B0%ED%83%80.md)
 
 ## Java
 
@@ -46,7 +46,7 @@
 
 - 탐색
 
-  - [이진 탐색](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.md)
+  - [이분 탐색](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.md)
   - [순차 탐색](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%88%9C%EC%B0%A8%20%ED%83%90%EC%83%89.md)
 
 - 정렬
@@ -58,13 +58,10 @@
   - [합병 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%ED%95%A9%EB%B3%91%20%EC%A0%95%EB%A0%AC.md)
   - [기타](https://github.com/yumin25/TIL/blob/master/Algorithm/%EA%B8%B0%ED%83%80%20%EC%A0%95%EB%A0%AC.md)
 
-- [BFS & DFS](https://github.com/yumin25/TIL/blob/master/Algorithm/BFS%20%26%20DFS.md)
-
-- [탐욕 알고리즘](https://github.com/yumin25/TIL/blob/master/Algorithm/Greedy%20Algorithm.md)
-- [백트래킹](https://github.com/yumin25/TIL/blob/master/Algorithm/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9.md)
-- [시간 복잡도](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
+- [기타 알고리즘]()
 - [순열](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%88%9C%EC%97%B4.md)
 - [조합](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%A1%B0%ED%95%A9.md)
+- [시간 복잡도](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
 
 ## SQL
 
