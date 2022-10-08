@@ -58,7 +58,7 @@
   - [합병 정렬](https://github.com/yumin25/TIL/blob/master/Algorithm/%ED%95%A9%EB%B3%91%20%EC%A0%95%EB%A0%AC.md)
   - [기타](https://github.com/yumin25/TIL/blob/master/Algorithm/%EA%B8%B0%ED%83%80%20%EC%A0%95%EB%A0%AC.md)
 
-- [기타 알고리즘]()
+- [기타 알고리즘](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 - [순열](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%88%9C%EC%97%B4.md)
 - [조합](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%A1%B0%ED%95%A9.md)
 - [시간 복잡도](https://github.com/yumin25/TIL/blob/master/Algorithm/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)

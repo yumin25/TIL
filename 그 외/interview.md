@@ -4,6 +4,8 @@
 - [git flow](#git-flow)
 - [Spring](#spring)
 - [Spring Security](#spring-security)
+- [QueryDSL](#querydsl)
+- [ORM](#orm-object-relation-mapping)
 
 <br>
 
@@ -118,6 +120,29 @@ feature들이 merge된 develop브랜치를 release 브랜치에 빼고 배포 �
 인터프리터 언어. 라인 별로 컴파일을 한다. 실행될 때마다 코드를 컴파일한다. <br>
 코드 가독성이 비교적 좋다.
 <br><br>
+
+### ORM (Object Relation Mapping)
+
+객체와 관계형 데이터베이스의 데이터를 자동으로 매핑해주는 것
+
+### JPQL
+
+직접 쿼리문을 작성하여 객체를 조회
+@Query("쿼리문")
+
+### QueryDSL
+
+문자가 아닌 코드로 쿼리 작성
+동적인 쿼리 작성이 편리하며 코드의 재사용성이 증가한다.
+정적 타입(Q 클래스)를 기반으로 쿼리 작성.
+
+### JPA Specification
+
+JPA가 제공하는 Criteria로 이루어지는데 조금만 복잡해져도 사용하기 어려워진다.
+
+### Criteria
+
+JPQL을 자바 코드로 작성하도록 도와주는 빌더 클래스 API
 
 #### HMAC : 암호화 해시 함수와 기밀 암호화 키를 수반하는 메세지 인증 코드
 

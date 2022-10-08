@@ -33,3 +33,7 @@ priorityQueue.add(1);
 <br>
 
 시간복잡도 : O(n𝑙𝑜𝑔𝑛)
+
+<br>
+
+관련 예시 : [백준 10814 나이순 정렬](https://github.com/yumin25/algorithm/blob/master/boj/%EC%A0%95%EB%A0%AC/10814%20%EB%82%98%EC%9D%B4%EC%88%9C%20%EC%A0%95%EB%A0%AC.md)
